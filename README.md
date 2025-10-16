@@ -5,9 +5,13 @@
 
 
 
-<div align="center">
+<div align="center" style="color:#39ff14;">
 
 # 👋 Hey there, I'm ***Rasayan Chakraborty***
+
+</div>
+
+<div align="center" style="color:#1e90ff;">
 
 ### 💻 Coder • 🚀 Reader • 🧠 Tech Enthusiast
 
@@ -50,5 +54,20 @@
 <div align="center">
 
 ⭐️ *"Code...Read...Exploit."* ⭐️  
+
+</div>
+
+<div align="center">
+
+### Progress under construction
+
+![Rasayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasayanchakraborty04-droid&show_icons=true&theme=radical)
+
+</div>
+
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=500&lines=Curious+Geek;Learning+Everyday;Open+Source+Fan)
 
 </div>
