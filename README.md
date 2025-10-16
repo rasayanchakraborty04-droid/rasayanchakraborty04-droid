@@ -1,4 +1,7 @@
-![banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasayanchakraborty04-droid/rasayanchakraborty04-droid/main/main/banner.png" alt="banner" width="100%" />
+</p>
+
 
 
 
@@ -46,6 +49,6 @@
 
 <div align="center">
 
-⭐️ *"Code. Create. Conquer."* ⭐️  
+⭐️ *"Code...Read...Exploit."* ⭐️  
 
 </div>
